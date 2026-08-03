@@ -28,17 +28,3 @@ Contact: hac823390@gmail.com
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Helencutie31&theme=tokyonight&show_icons=true&hide_border=false&v=1" alt="GitHub Stats for Helencutie31" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Helencutie31&theme=tokyonight" alt="GitHub Streak for Helencutie31" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helencutie31&theme=tokyonight&layout=compact&v=1" alt="Most Used Languages for Helencutie31" />
-</p>
