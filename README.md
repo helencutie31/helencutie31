@@ -1,12 +1,13 @@
-# 👾 About Me: Ha Lan Do
+# 👾 About Me:
 
+Full name: Ha Lan Do (Helen)
 DOB: 31/08/2005  
 Gender: Female  
 Contact: hac823390@gmail.com
 
 ---
 
-### 💡 Philosophy:
+### 🌿 Inspiration
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simply%20connect%20two%20dots%2C%20and%20a%20new%20idea%20may%20blossom.&author=Do%20Ha%20Lan" alt="Do Ha Lan Quote" />
 </p>
@@ -28,14 +29,14 @@ Contact: hac823390@gmail.com
 
 # 📊 GitHub Stats:
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Helencutie31&theme=tokyonight&show_icons=true&hide_border=false" alt="Do Ha Lan's GitHub Stats" width="400" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Helencutie31&theme=tokyonight&show_icons=true&hide_border=false" alt="Do Ha Lan's GitHub Stats" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Helencutie31&theme=tokyonight" alt="Do Ha Lan's GitHub Streak" width="400" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Helencutie31&theme=tokyonight" alt="Do Ha Lan's GitHub Streak" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helencutie31&theme=tokyonight&layout=compact" alt="Most Used Languages" width="300" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helencutie31&theme=tokyonight&layout=compact" alt="Most Used Languages" />
 </p>
