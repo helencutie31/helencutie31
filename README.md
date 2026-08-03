@@ -3,6 +3,8 @@
 Full name: Ha Lan Do (Helen) <br>
 DOB: 31/08/2005 <br>
 Gender: Female <br>
+Education: Senior student at VNU University of Science <br>
+Major: Biology (Talented Program) <br>
 Contact: hac823390@gmail.com
 
 ---
@@ -30,13 +32,13 @@ Contact: hac823390@gmail.com
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://grs-nu.vercel.app/api?username=Helencutie31&theme=tokyonight&show_icons=true&hide_border=false" alt="Do Ha Lan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Helencutie31&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats for Helencutie31" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Helencutie31&theme=tokyonight" alt="Do Ha Lan's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Helencutie31&theme=tokyonight" alt="GitHub Streak for Helencutie31" />
 </p>
 
 <p align="left">
-  <img src="https://grs-nu.vercel.app/api/top-langs/?username=Helencutie31&theme=tokyonight&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helencutie31&theme=tokyonight&layout=compact" alt="Most Used Languages for Helencutie31" />
 </p>
