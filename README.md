@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👾 About Me: Ha Lan Do
 
-<!--
-**helencutie31/helencutie31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DOB: 31/08/2005  
+Gender: Female  
+Contact: hac823390@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Philosophy:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simply%20connect%20two%20dots%2C%20and%20a%20new%20idea%20may%20blossom.&author=Do%20Ha%20Lan" alt="Do Ha Lan Quote" />
+</p>
+
+---
+
+# 💻 Tech Stack:
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/SHELL-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Helencutie31&theme=tokyonight&show_icons=true&hide_border=false" alt="Do Ha Lan's GitHub Stats" width="400" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Helencutie31&theme=tokyonight" alt="Do Ha Lan's GitHub Streak" width="400" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helencutie31&theme=tokyonight&layout=compact" alt="Most Used Languages" width="300" />
+</p>
