@@ -1,15 +1,15 @@
 # 👾 About Me:
 
-Full name: Ha Lan Do (Helen)
- DOB: 31/08/2005  
-Gender: Female  
+Full name: Ha Lan Do (Helen) <br>
+DOB: 31/08/2005 <br>
+Gender: Female <br>
 Contact: hac823390@gmail.com
 
 ---
 
-### 🌿 Inspiration
+### 🌿 Inspiration:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simply%20connect%20two%20dots%2C%20and%20a%20new%20idea%20may%20blossom.&author=Do%20Ha%20Lan" alt="Do Ha Lan Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simply%20connect%20two%20dots%2C%20and%20a%20new%20idea%20may%20blossom.&author=me" alt="Helen's Quote" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ Contact: hac823390@gmail.com
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Helencutie31&theme=tokyonight&show_icons=true&hide_border=false" alt="Do Ha Lan's GitHub Stats" />
+  <img src="https://grs-nu.vercel.app/api?username=Helencutie31&theme=tokyonight&show_icons=true&hide_border=false" alt="Do Ha Lan's GitHub Stats" />
 </p>
 
 <p align="left">
@@ -38,5 +38,5 @@ Contact: hac823390@gmail.com
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helencutie31&theme=tokyonight&layout=compact" alt="Most Used Languages" />
+  <img src="https://grs-nu.vercel.app/api/top-langs/?username=Helencutie31&theme=tokyonight&layout=compact" alt="Most Used Languages" />
 </p>
