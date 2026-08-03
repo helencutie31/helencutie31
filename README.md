@@ -32,7 +32,7 @@ Contact: hac823390@gmail.com
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Helencutie31&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats for Helencutie31" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Helencutie31&theme=tokyonight&show_icons=true&hide_border=false&v=1" alt="GitHub Stats for Helencutie31" />
 </p>
 
 <p align="left">
@@ -40,5 +40,5 @@ Contact: hac823390@gmail.com
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helencutie31&theme=tokyonight&layout=compact" alt="Most Used Languages for Helencutie31" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helencutie31&theme=tokyonight&layout=compact&v=1" alt="Most Used Languages for Helencutie31" />
 </p>
