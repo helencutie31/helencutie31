@@ -1,7 +1,7 @@
 # 👾 About Me:
 
 Full name: Ha Lan Do (Helen)
-DOB: 31/08/2005  
+ DOB: 31/08/2005  
 Gender: Female  
 Contact: hac823390@gmail.com
 
